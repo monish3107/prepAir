@@ -1,0 +1,47 @@
+{
+  "editor.fontSize": 20,
+  "C_Cpp.default.compilerPath": "",
+  "editor.guides.bracketPairs": "active",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.wordWrapColumn": 30,
+  "diffEditor.wordWrap": "on",
+  "[html]": {
+    "editor.suggest.insertMode": "replace",
+    "editor.formatOnType": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "liveServer.settings.ChromeDebuggingAttachment": true,
+  "liveServer.settings.fullReload": true,
+  "tabnine.experimentalAutoImports": true,
+  "editor.stickyScroll.enabled": false,
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.enabled": false,
+  "github.copilot.advanced": {
+    "authProvider": "github"
+  },
+  "chat.editing.alwaysSaveWithGeneratedChanges": true,
+  "inlineChat.lineNaturalLanguageHint": false,
+  "tailwindCSS.experimental.configFile": "src/index.css",
+  "roo-cline.allowedCommands": [
+    "npm test",
+    "npm install",
+    "tsc",
+    "git log",
+    "git diff",
+    "git show"
+  ],
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "codeium.enableConfig": {
+    "*": true,
+    "plaintext": true
+  },
+  "codeium.enableCodeLens": false,
+  "editor.codeActionsOnSave": {}
+}
